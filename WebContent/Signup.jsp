@@ -33,7 +33,7 @@
 	<input type ="submit" value="Đăng ký">
 	</form>
 	<br/>
-	<h2><a href = "login.jsp">Đăng nhập</a></h2>
+	<h2><a href = "login.jsp"> Đăng nhập </a></h2>
 	
 </body>
 </html>
